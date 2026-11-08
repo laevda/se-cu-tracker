@@ -6,11 +6,23 @@ Secu Tracker helps freelancers and creative professionals track working hours, o
 
 ## Screenshots
 
+### Main Window
 ![Main Window](Screenshots/main-window.png)
 
-![Work History](Screenshots/history.png)
+### Menu Bar Timer
+![Menu Bar Timer](Screenshots/menu-bar-timer.png)
 
-![Client Management](Screenshots/clients.png)
+### Manual Time Entry
+![Manual Time Entry](Screenshots/manual-entry.png)
+
+### Work History
+![Work History](Screenshots/work-history.png)
+
+### Clients & Projects
+![Clients & Projects](Screenshots/clients-and-projects.png)
+
+### Reports
+![Reports](Screenshots/reports.png)
 
 
 ## Download
