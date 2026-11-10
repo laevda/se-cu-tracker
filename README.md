@@ -1,4 +1,4 @@
-se$\color{red}{:}$cu tracker
+# se:cu tracker
 
 **A lightweight time tracking app for macOS with a Russian-language interface.**
 
