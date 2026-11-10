@@ -1,142 +1,144 @@
 
 # se:cu tracker
 
-**Локальный трекер рабочего времени для macOS. Без подписок, облачных сервисов и лишней сложности.**
+**локальный трекер рабочего времени для macos. без подписок, облачных сервисов и лишней сложности.**
 
 se:cu tracker помогает учитывать рабочее время, организовывать клиентов и проекты, управлять почасовыми ставками и рассчитывать стоимость выполненной работы.
 
-Приложение создано для фрилансеров и творческих специалистов, которым важно понимать, на что уходит время и сколько стоит их работа.
+приложение создано для фрилансеров и творческих специалистов, которым важно понимать, на что уходит время и сколько стоит их работа.
 
-## Скриншоты
+## скриншоты
 
-### Главное окно
+### главное окно
 ![Main Window](Screenshots/main-window.png)
 
-### Таймер в строке меню
+### таймер в строке меню
 ![Menu Bar Timer](Screenshots/menu-bar-timer.png)
 
-### Ручное добавление времени
+### ручное добавление времени
 ![Manual Time Entry](Screenshots/manual-entry.png)
 
-### История работы
+### история работы
 ![Work History](Screenshots/work-history.png)
 
-### Клиенты и проекты
+### клиенты и проекты
 ![Clients & Projects](Screenshots/clients-and-projects.png)
 
-### Отчёты
+### отчёты
 ![Reports](Screenshots/reports.png)
 
-## Скачать
+## скачать
 
-[Скачать последнюю версию](../../releases/latest)
+[скачать последнюю версию](../../releases/latest)
 
-## Возможности
+## возможности
 
-- **Учёт рабочего времени** — отслеживание времени, затраченного на задачи и проекты.
-- **Клиенты и проекты** — организация рабочих процессов в одном месте.
-- **Гибкие почасовые ставки** — индивидуальные ставки для клиентов и отдельных задач.
-- **История работы** — просмотр, редактирование и управление записями времени.
-- **Отчёты и экспорт** — выгрузка истории работы в CSV и PDF.
-- **Таймер в строке меню** — быстрый доступ к учёту времени прямо из macOS.
-- **Синхронизация данных** — синхронизация рабочих данных между устройствами.
+- **учёт рабочего времени** — отслеживание времени, затраченного на задачи и проекты.
+- **клиенты и проекты** — организация рабочих процессов в одном месте.
+- **гибкие почасовые ставки** — индивидуальные ставки для клиентов и отдельных задач.
+- **история работы** — просмотр, редактирование и управление записями времени.
+- **отчёты и экспорт** — выгрузка истории работы в csv и pdf.
+- **таймер в строке меню** — быстрый доступ к учёту времени прямо из macos.
+- **синхронизация данных** — синхронизация рабочих данных между устройствами.
+- **светлая и тёмная тема** — автоматическое переключение оформления в соответствии с настройками macos.
 
-## Язык интерфейса
+## язык интерфейса
 
-В настоящее время приложение доступно на **русском языке**.
+в настоящее время приложение доступно на **русском языке**.
 
-## Системные требования
+## системные требования
 
-- macOS.
-- Apple Silicon или Intel в зависимости от доступной сборки.
+- macos 27 или новее.
+- mac с процессором apple silicon.
 
-## Установка
+## установка
 
-1. Скачайте последнюю версию из раздела [Releases](../../releases).
-2. Откройте DMG-файл.
-3. Перетащите приложение в папку Applications.
-4. Запустите se:cu Tracker.
+1. скачайте последнюю версию из раздела [releases](../../releases).
+2. откройте dmg-файл.
+3. перетащите приложение в папку applications.
+4. запустите se:cu tracker.
 
-## Конфиденциальность
+## конфиденциальность
 
-se:cu Tracker создан для локальной работы и хранения данных под контролем пользователя.
+se:cu tracker создан для локальной работы и хранения данных под контролем пользователя.
 
-- Не требует регистрации.
-- Не имеет подписки.
-- Не требует облачного аккаунта.
-- Рабочие данные остаются под вашим контролем.
+- не требует регистрации.
+- не имеет подписки.
+- не требует облачного аккаунта.
+- рабочие данные остаются под вашим контролем.
 
-## Технологии
+## технологии
 
-Приложение создано с использованием нативных технологий Apple:
+приложение создано с использованием нативных технологий apple:
 
-- Swift
-- SwiftUI
-- SwiftData
+- swift
+- swiftui
+- swiftdata
 
-## Лицензия
+## лицензия
 
-All rights reserved.
+all rights reserved.
 
-Исходный код доступен для ознакомления. Копирование, изменение, распространение и использование кода в других проектах без предварительного разрешения автора запрещены.
+исходный код доступен для ознакомления. копирование, изменение, распространение и использование кода в других проектах без предварительного разрешения автора запрещены.
 
 ---
 
-# English
+# english
 
-**A local time tracking app for macOS. No subscriptions, cloud services or unnecessary complexity.**
+**a local time tracking app for macos. no subscriptions, cloud services or unnecessary complexity.**
 
-se:cu Tracker helps freelancers and creative professionals track working hours, organize clients and projects, manage hourly rates, and calculate the value of their work.
+se:cu tracker helps freelancers and creative professionals track working hours, organize clients and projects, manage hourly rates, and calculate the value of their work.
 
-## Features
+## features
 
-- **Time Tracking** — track time spent on tasks and projects.
-- **Client & Project Management** — keep clients and projects organized in one place.
-- **Flexible Hourly Rates** — set default client rates and custom rates for individual tasks.
-- **Work History** — view, edit, and manage time entries.
-- **Reports & Export** — export work history to CSV and PDF.
-- **Menu Bar Timer** — access time tracking directly from the macOS menu bar.
-- **Data Synchronization** — sync work data between devices.
+- **time tracking** — track time spent on tasks and projects.
+- **client & project management** — keep clients and projects organized in one place.
+- **flexible hourly rates** — set default client rates and custom rates for individual tasks.
+- **work history** — view, edit, and manage time entries.
+- **reports & export** — export work history to csv and pdf.
+- **menu bar timer** — access time tracking directly from the macos menu bar.
+- **data synchronization** — sync work data between devices.
+- **light & dark mode** — automatically adapts to your macos appearance settings.
 
-## Download
+## download
 
-[Download the latest version](../../releases/latest)
+[download the latest version](../../releases/latest)
 
-## Screenshots
+## screenshots
 
-See the screenshots above.
+see the screenshots above.
 
-## Installation
+## installation
 
-1. Download the latest version from [Releases](../../releases).
-2. Open the DMG file.
-3. Drag se:cu Tracker into your Applications folder.
-4. Launch the app.
+1. download the latest version from [releases](../../releases).
+2. open the dmg file.
+3. drag se:cu tracker into your applications folder.
+4. launch the app.
 
-## Language
+## language
 
-The application interface is currently available in **Russian only**.
+the application interface is currently available in **russian only**.
 
-## Privacy
+## requirements
 
-se:cu Tracker is designed for local use and user-controlled data storage.
+- macos 27 or later.
+- mac with apple silicon.
 
-- No account required.
-- No subscription.
-- No cloud account required.
-- Your work data stays under your control.
+## privacy
 
-## Requirements
+se:cu tracker is designed for local use and user-controlled data storage.
 
-- macOS.
-- Apple Silicon or Intel, depending on the available build.
+- no account required.
+- no subscription.
+- no cloud account required.
+- your work data stays under your control.
 
-## Technology
+## technology
 
-Built with Swift, SwiftUI and SwiftData using native Apple technologies.
+built with swift, swiftui and swiftdata using native apple technologies.
 
-## License
+## license
 
-All rights reserved.
+all rights reserved.
 
-The source code is available for viewing. Copying, modifying, distributing or reusing the code without prior permission from the author is not permitted.
+the source code is available for viewing. copying, modifying, distributing or reusing the code without prior permission from the author is not permitted.
